@@ -14,7 +14,7 @@
 # Databases:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 # CI/CD:
-![DevOpsPipelines](https://img.shields.io/badge/azureDevOps_Pipelines-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![DevOpsPipelines](https://img.shields.io/badge/azure_DevOps_Pipelines-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 # Cloud Providers:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23ED8B00.svg?style=for-the-badge&logo=amazonWebServices&logoColor=white)
 # Project Managment:
